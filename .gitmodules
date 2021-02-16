@@ -1,0 +1,9 @@
+[submodule "components/lvgl"]
+	path = components/lvgl
+	url = git@github.com:lvgl/lvgl.git
+[submodule "components/lvgl_m5core2"]
+	path = components/lvgl_m5core2
+	url = git@github.com:tomjnixon/lvgl_m5core2.git
+[submodule "components/lv_examples/lv_examples"]
+	path = components/lv_examples/lv_examples
+	url = https://github.com/lvgl/lv_examples.git
